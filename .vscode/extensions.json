@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "fwcd.kotlin",
+        "cstef.kotlin-formatter",
+        "vscjava.vscode-gradle",
+        "vscjava.vscode-java-pack"
+    ]
+}

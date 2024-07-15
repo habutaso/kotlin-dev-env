@@ -1,0 +1,12 @@
+{
+    "[kotlin]": {
+        "editor.defaultFormatter": "fwcd.kotlin"
+    },
+    "[kotlinscript]": {
+        "editor.defaultFormatter": "fwcd.kotlin"
+    },
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1500,
+    "java.jdt.ls.java.home": "~/.sdkman/candidates/java/current"
+}
