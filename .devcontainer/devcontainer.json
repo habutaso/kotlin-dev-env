@@ -1,0 +1,21 @@
+{
+    "name": "devcontainer Kotlin",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "fwcd.kotlin",
+                "cstef.kotlin-formatter",
+                "vscjava.vscode-gradle",
+                "vscjava.vscode-java-pack"
+            ]
+        }
+    },
+    "remoteUser": "vscode",
+    "runArgs": [
+        "-it",
+        "--privileged"
+    ]
+}
